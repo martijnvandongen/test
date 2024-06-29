@@ -2,3 +2,5 @@
 test
 
 Fix somewhere
+
+Bump version
